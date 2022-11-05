@@ -1,7 +1,7 @@
 {
-  "name": "nodejs__typescript__cloudinary",
+  "name": "nodejs__typescript__cloudinary__starter__code",
   "version": "1.0.0",
-  "description": "#### What is this repository for? #### - nodejs__typescript__cloudinary.",
+  "description": "#### What is this repository for? #### - nodejs__typescript__cloudinary__starter__code.",
   "main": "dist/server.js",
   "engines": {
     "node": "18.12",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pramish/nodejs__typescript__cloudinary"
+    "url": "https://github.com/pramish/nodejs__typescript__cloudinary__starter__code"
   },
   "author": "Pramish Luitel <pramish.luitel7@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pramish/nodejs__typescript__cloudinary/issues"
+    "url": "https://github.com/pramish/nodejs__typescript__cloudinary__starter__code/issues"
   },
-  "homepage": "https://github.com/pramish/nodejs__typescript__cloudinary",
+  "homepage": "https://github.com/pramish/nodejs__typescript__cloudinary__starter__code",
   "dependencies": {
     "cloudinary": "^1.32.0",
     "cors": "^2.8.5",
